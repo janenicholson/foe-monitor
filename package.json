@@ -1,0 +1,22 @@
+{
+  "name": "foe-monitor",
+  "version": "1.0.0",
+  "description": "Watch great buildings and send messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janenicholson/foe-monitor.git"
+  },
+  "keywords": [
+    "forge",
+    "empires",
+    "game",
+    "guild",
+    "monitor"
+  ],
+  "author": "Jane Nicholson",
+  "license": "ISC"
+}
